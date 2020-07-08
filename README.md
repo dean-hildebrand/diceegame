@@ -1,2 +1,2 @@
 # diceegame
-simple JS random dice number game
+Simple JS random dice number game. EnjoY!!
