@@ -1,4 +1,4 @@
 
-function randomNumber1(){
-  console.log(Math.random() * 5)
-}
+// function randomNumber1(){
+//   console.log(Math.random() * 5)
+// }
